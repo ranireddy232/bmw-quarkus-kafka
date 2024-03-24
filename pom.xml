@@ -64,7 +64,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>quarkus-kafka-sample</finalName>
     <plugins>
       <plugin>
         <groupId>${quarkus.platform.group-id}</groupId>
